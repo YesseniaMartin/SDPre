@@ -15,11 +15,7 @@ public class Objective5Lab3 {
       else if (userNum < 0) {
         System.out.println("The number is negative");
       }
-
-      /*
-        Your solution goes here
-      */
-
+      
       scanner.close();
   }
 }
